@@ -3,4 +3,6 @@ ibekg
 
 A multiplatform key generator library.
 
-ibekg will be fully open sourced in September, 2013.
+### Copyright and license
+
+Copyright 2011-2013 Igor Zboran under [the Apache 2.0 license](LICENSE).
