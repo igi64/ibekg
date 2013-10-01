@@ -3,10 +3,10 @@ ibekg
 
 A multiplatform key generator library.
 
-Go here for Wiki
+Go here for Wiki:
 https://github.com/igi64/ibekg/wiki
 
-Demo
+Demo:
 https://airykey.org
 
 ### Copyright and license
