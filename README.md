@@ -7,7 +7,7 @@ Go here for Wiki:
 https://github.com/igi64/ibekg/wiki
 
 Demo:
-https://ibp.math.fme.vutbr.cz
+https://airykey.org
 
 ### Copyright and license
 
