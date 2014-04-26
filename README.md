@@ -1,7 +1,7 @@
 ibekg
 =====
 
-A multiplatform key generator library.
+A multiplatform encryption key generator library.
 
 Go here for Wiki:
 https://github.com/igi64/ibekg/wiki
